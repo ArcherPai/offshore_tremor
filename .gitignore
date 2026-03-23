@@ -91,7 +91,7 @@ docs/_build/
 site/
 
 # =========================
-# Project data (very important for HPC)
+# Project data 
 # =========================
 data/*
 !data/.gitkeep
